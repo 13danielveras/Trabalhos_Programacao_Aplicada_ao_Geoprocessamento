@@ -1,0 +1,25 @@
+# Bytecode do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ambientes virtuais
+.venv/
+venv/
+env/
+ENV/
+
+# Configurações de IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Saídas geradas pelo programa
+*.geojson
+descartes*.csv
+relatorio_descartes*.csv
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
